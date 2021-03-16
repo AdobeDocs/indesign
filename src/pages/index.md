@@ -94,7 +94,7 @@ Read about the recent changes to installation and management of InDesign Server 
 16 Free InDesign Scripts from the Scripting Community to Help Your Workflow, Updated for 2020
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
